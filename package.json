@@ -1,0 +1,16 @@
+{
+  "name": "bnb_analyzer",
+  "version": "1.0.0",
+  "description": "analyze data around certain airbnb addresses to determine profitability",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Alfers",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "yargs": "^17.0.1"
+  }
+}
